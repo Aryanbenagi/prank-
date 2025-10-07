@@ -1,0 +1,11 @@
+{
+  "name": "funny-prank-site",
+  "version": "1.0.0",
+  "description": "A simple funny prank website - You got fooled",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Nothing to build, just serving static files'"
+  },
+  "author": "Aryan",
+  "license": "MIT"
+}
